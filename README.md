@@ -1,4 +1,4 @@
-# Solving problems with algorithms 🐞
+# solving problems with different languages 🐞
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
